@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/org.puredata.android-pd-core-1.0.2_cf14ffc48eb9ed5575729b99cad1e0a9c6bdb6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_99b941ba06b8fb8a212bf656f5a0a4dc413b1553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_e9262a90f753804a8777927ce5d8bb6775a76c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b1879cf9ec80cb55c6b32415621849715b1b5ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_79277eac8148dad3b1d588c5eff3de4415450353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8396e578648e0a67181169a29edd0d327efc575f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3dd35c9db523ecfc9c89c24e660fed14718f4134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.noisepages.nettoyeur-midi-1.0.0-rc1_f94f692f4c094793089f9b5d0e0383b45b19fa5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5632f276abb390141471c1b9aafebe351d43f545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4f328f358ae8ba206b6d8fcde672658c972530f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_2a9b238bb7f6b5f4f280aac34ab88640f0439c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_aabdd0c36fdf5377a271d3c32f94b64cac3a7275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_6e89ffe852bc349f6eb67efc1ac4d9b0ec638640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/student/Downloads/Android-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_01893f81d98206247140d93f1f1e540687293f44.jar" />
+    </item>
+
+</items>
